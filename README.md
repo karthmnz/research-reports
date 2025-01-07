@@ -8,8 +8,8 @@ List of Reports:
 2. Federated Learning - Study on Performance Limitations
 3. Hyperpartisan News Detection
 
-=========================================================================================================================================================================
+=====================================================================================================================================================
 
-Update on the Hyperpartisan News: 
+Update on the Hyperpartisan News Detection*: 
 
-I made significant experiement code changes to the project after it was left untouched, I took the initiative, updated the paper, and resubmitted the work fully validating all the results. And I have update the contributions in the newer report to reflect the same as I spent a lot of time updating the experiment over the past few weeks. 
+I made significant experiement code changes to the project after it was abandoned. I took the initiative, updated the paper, and submitted the work fully validating all the results. I have updated the repo based on new experiments to reflect the same. 
